@@ -1,4 +1,4 @@
-# https://colombo-trainee.github.io/KHANHLQ-Frontent-1.5/
+
 # Bài tập Trainee Colombo 2018
 
 ## Frontent 1.5 for intern
