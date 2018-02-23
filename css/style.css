@@ -126,7 +126,7 @@ body{
 	background-color: #15b4e3;
 	position: absolute;
 	opacity: 0.5;
-	z-index: 1;
+	/*z-index: 1;*/
 	width: 60%;
 	right: 0px;
 }
@@ -136,10 +136,10 @@ body{
 	height: 60%;
 	position: absolute;
 	bottom: 0px;
-	z-index: 1;
+	z-index: 1; 	
 }
 .gr{
-	margin-bottom: 10%;
+	margin-bottom: 12%;
 	margin-left: 10%;
 }
 .gr:first-child{
