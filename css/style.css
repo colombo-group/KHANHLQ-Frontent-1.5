@@ -214,6 +214,7 @@ body{
 	color: white;
 	margin-left: 10%;
 	margin-bottom: 5%;
+	font-size: 1.5vw;
 }
 .text2{
 	width: 80%;
@@ -221,14 +222,13 @@ body{
 	color: white;
 	margin-left: 10%;
 	margin-top: 5%;
-
 	font-family: Montserrat-B;
 }
 .rec1{
 	width: 20%;
 	height: 2%;
 	background-color: white;
-	margin-top: 60%;
+	margin-top: 150%;
 	margin-left: 10%;
 	margin-bottom: 5%;
 }
@@ -236,7 +236,7 @@ body{
 	width: 20%;
 	height: 2%;
 	background-color: white;
-	margin-top: 5vw;
+	margin-top: 10vw;
 	margin-left: 10%;
 }
 .title4{
