@@ -28,7 +28,7 @@ url("fonts/Montserrat-Light.otf") format("opentype"),
 	clear: both;
 }
 body{
-	min-width: 500px;
+	/*min-width: 500px;*/
 	width: 100%;
 	font-family: Montserrat, Arial, sans-serif;
 }
@@ -118,13 +118,20 @@ body{
 	width: 100vw;
 	position: absolute;
 }
+.blank{
+	width: 35vw;
+	height: 35vw;
+	float: left;
+	/*background-color: red;*/
+}
 .filter{
-	height: 50vw;
+	height: 35vw;
 	background-color: #15b4e3;
-	position: absolute;
 	opacity: 0.5;
-	width: 65vw;
-	left: 35vw;
+	/*width: 65vw;*/
+	width: 95%;
+	position: absolute;
+	right: 0;
 }
 .contact{
 	background-color: #242a31;
@@ -165,13 +172,16 @@ body{
 }
 .logo:last-child{
 	margin-right: 7vw;
+	margin-left: 35vw;
 }
 .logo img{
 	width: 8vw;
+
 }
 .logo:last-child img{
 	width: 15vw;
 	margin: 0vw;
+
 }
 .logos{
 	display: flex;
@@ -180,10 +190,10 @@ body{
 	justify-content: center;
 	position: absolute;
 	bottom: 0px;
-	left: 35vw;
-	vertical-align: middle;
+	/*right: 0vw;*/
+	/*vertical-align: middle;*/
 	background-color: #386678;
-	width: 65vw;
+	width: 100vw;
 	height: 15vw;
 }
 .special{
